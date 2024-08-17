@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zbm2005&label=Profile%20views&color=0e75b6&style=flat" alt="zbm2005" /> </p>
 
-- 🔭 I’m currently working on **IOT and AUTOMATION**
+- 🔭 I’m currently working on **IRL "Friday"~ Autobot**
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **Python , Java , C++**
+- 💬 Ask me about **Ethical Hacking, Python , IOT and automation**
 
 - 📫 How to reach me **thecodekid0@gmail.com**
 
