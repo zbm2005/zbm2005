@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **python , java , C++**
+- 💬 Ask me about **Python , Java , C++**
 
 - 📫 How to reach me **thecodekid0@gmail.com**
 
